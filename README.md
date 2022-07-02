@@ -1,4 +1,2 @@
 # Hello World
-## Hello World
-
-### Hello world
+This is a readme for our first project!
